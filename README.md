@@ -1,0 +1,3 @@
+# Trenirovka
+
+Это тренировка GitHub
